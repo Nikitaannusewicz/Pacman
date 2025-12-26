@@ -12,7 +12,7 @@ static char gameMap[MAP_HEIGHT][MAP_WIDTH] = {
     "W W W W                W W W",
     "W W W W WWWWWWWWWWWWWW W W W",
     "W W W W W            W W W W",
-    "W W W W W WWWWWWWWWW W W W W",
+    "W         WWWWWWWWWW W W W W",
     "W W W W W W        W W W W W",
     "W W W W W W WWWWWW W W W W W",
     "W W W W W W W    W W W W W W",
